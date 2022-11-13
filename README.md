@@ -1,6 +1,7 @@
 # BT4012_G5
-Semester 1, AY 2022/2023
-BT4012 - Fraud Analytics
+### Semester 1, AY 2022/2023
+### BT4012 - Fraud Analytics
 
-####Group Project - Car Insurance Fraud
-#### Group No.:			5
+#### Group No :			5 
+#### Topic : Car Insurance Fraud
+
